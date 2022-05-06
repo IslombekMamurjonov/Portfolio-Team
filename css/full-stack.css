@@ -1,0 +1,182 @@
+*{
+    font-family: 'Gugi', cursive;
+}
+/* Team-logo */
+.left-content{
+    position: sticky;
+    top: 0px;
+    height: 100vh;
+}
+.team-name {
+    margin-bottom: 0;
+    color: #2704FE;
+}
+
+.team-logo__img {
+    border: 3px solid #2704FE;
+}
+
+.vl {
+    border-right: 3px solid #2704FE;
+    
+}
+
+.team-device {
+    margin-top: 0;
+    font-size: 14px;
+    line-height: 14px;
+    color: #2704FE;
+}
+
+/* Team-person1 */
+.persons-link {
+    margin-top: 20px;
+}
+
+.person-a-one {
+    text-decoration: none;
+    color: #3772A3;
+}
+
+.person-a-two {
+    color: #FF0000;
+    text-decoration: none;
+}
+
+.person-a-three {
+    text-decoration: none;
+    color:#FFC62A;
+}
+
+.person-a-four {
+    text-decoration: none;
+    color: #80FF00;
+}
+
+.person-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0 10px 0;
+}
+
+.person-link img {
+    margin-right: 10px;
+}
+
+/* full-stack */
+.team-bease h1 {
+    line-height: 3rem;
+    font-size: 60px;
+    margin: 0;
+    margin-bottom: 0;
+    color: #ff0000;
+}
+
+.team-bease h3 {
+    margin: 0;
+    font-size: 40px;
+    margin-bottom: 0;
+    color: #ff0000;
+    margin-bottom: 1rem;
+}
+.team-bease .team-logo-img {
+    border: 3px solid #ff0000;
+}
+
+/* Information */
+.forma {
+    display: flex;
+    justify-content: center;
+}
+.education {
+    background-color: rgba(163, 55, 55, 0.1);
+    border: 3px solid #ff0000;
+    border-radius: 50px;
+}
+
+.education__edu{
+    color: #ff0000;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+
+.about-developer {
+    color: #ff0000;
+}
+
+.technology {
+    background-color: rgba(163, 55, 55, 0.1);
+    border: 3px solid #ff0000;
+    border-radius: 50px;
+}
+.res{
+    margin-top: 20px;
+    display: flex;
+}
+.tools{
+    margin-right: 1rem;
+    color: #ff0000;
+    font-weight: 500;
+}
+
+.procent{
+    margin-left: 1rem;
+    color: #ff0000;
+    font-weight: 500;
+}
+
+.triangle-down {
+    margin: 1rem auto;
+    width: 0;
+    height: 0;
+    border-left: 75px solid transparent;
+    border-right: 75px solid transparent;
+    border-top: 50px solid #ff0000;
+}
+
+
+/* My projects */
+.my-projects{
+    margin: 2rem 0 2rem 0;
+}
+
+.card{
+    border: 3px solid #ff0000 !important;
+}
+
+.card-left{
+    border-radius: 0 0 0 50px !important;
+}
+
+.card-right {
+    border-radius: 0 0 50px 0 !important;
+}
+
+.card-title{
+    padding: 0;
+}
+
+.nav-link {
+    color: #ff0000;
+}
+
+/* icons */
+.icon {
+    width: 50px;
+    margin: 40px 20px;
+}
+
+.footer {
+    display: flex;
+    justify-content:space-evenly;
+}
+.trink .triangle-downs {
+    margin: 2rem auto;
+    width: 0;
+    height: 0;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 50px solid #ff0000;
+ }

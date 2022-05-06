@@ -1,0 +1,74 @@
+/* Team-logo */
+.team-name {
+    margin-bottom: 0;
+    color: #2704FE;
+}
+
+.team-logo__img {
+    border: 3px solid #2704FE;
+}
+
+.vl {
+    border-right: 3px solid #2704FE;
+    height: 90%;
+}
+
+.team-device {
+    margin-top: 0;
+    font-size: 14px;
+    line-height: 14px;
+    color: #2704FE;
+}
+
+/* Team-person1 */
+a{
+    text-decoration: none;
+}
+.persons-link {
+    margin-top: 20px;
+}
+
+.person-a-one {
+    text-decoration: none;
+    color: #3772A3;
+}
+
+.person-a-two {
+    color: #FF0000;
+    text-decoration: none;
+}
+
+.person-a-three {
+    text-decoration: none;
+    color:#FFC62A;
+}
+
+.person-a-four {
+    text-decoration: none;
+    color: #80FF00;
+}
+
+.person-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0 10px 0;
+}
+
+.person-link img {
+    margin-right: 10px;
+}
+/* big logo  */
+.team-bease h1 {
+    font-size: 70px;
+    color: #2704FE;
+}
+
+.team-bease p {
+    font-size: 30px;
+    color: #2704FE;
+}
+
+.team-bease img {
+    border: 3px solid #2704FE;
+}
