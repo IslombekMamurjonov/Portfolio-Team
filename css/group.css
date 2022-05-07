@@ -71,67 +71,70 @@ a {
     margin-right: 10px;
 }
 
-/* full-stack */
+/* Group */
 .team-bease h1 {
     line-height: 3rem;
     font-size: 60px;
     margin: 0;
     margin-bottom: 0;
-    color: #ff0000;
+    color: #2704FE;
+}
+
+.developer_profession {
+    padding: 20px;
 }
 
 .team-bease h3 {
     margin: 0;
     font-size: 40px;
     margin-bottom: 0;
-    color: #ff0000;
+    color: #2704FE;
     margin-bottom: 1rem;
 }
 .team-bease .team-logo-img {
-    border: 3px solid #ff0000;
+    border: 3px solid #2704FE;
 }
 
-/* Information */
-.forma {
-    display: flex;
-    justify-content: center;
-}
-.education {
-    background-color: rgba(163, 55, 55, 0.1);
-    border: 3px solid #ff0000;
-    border-radius: 50px;
+h3 {
+    margin-top: 100px;
 }
 
-.education__edu{
-    color: #ff0000;
-    margin-top: 3px;
-    margin-bottom: 3px;
+/* persons  */
+/* Backend */
+.backend-log {
+    border-radius: 3px solid #3772A3;
 }
 
-
-.about-developer {
-    color: #ff0000;
+.b-item {
+    font-size: 40px;
+    color: #3772A3;
 }
 
-.technology {
-    background-color: rgba(163, 55, 55, 0.1);
-    border: 3px solid #ff0000;
-    border-radius: 50px;
+/* Full-stack */
+.full-stack-log {
+    border-radius: 2px solid red;
 }
-.res{
-    margin-top: 20px;
-    display: flex;
-}
-.tools{
-    margin-right: 1rem;
-    color: #ff0000;
-    font-weight: 500;
+.fs-item {
+    color: #FF0000;
+    font-size: 40px;
 }
 
-.procent{
-    margin-left: 1rem;
-    color: #ff0000;
-    font-weight: 500;
+/* Frontend */
+.frontend {
+    border-radius: 3px solid #FFC62A;
+}
+.f-item {
+    color: #FFC62A;
+    font-size: 40px;
+}
+
+/* Android */
+.android {
+    border-radius: 3px solid #80FF00;
+}
+.a-item {
+    color: #80FF00;
+    font-size: 40px;
 }
 
 .triangle-down {
@@ -140,7 +143,7 @@ a {
     height: 0;
     border-left: 75px solid transparent;
     border-right: 75px solid transparent;
-    border-top: 50px solid #ff0000;
+    border-top: 50px solid #2704FE;
 }
 
 
@@ -150,7 +153,7 @@ a {
 }
 
 .card{
-    border: 3px solid #ff0000 !important;
+    border: 3px solid #2704FE !important;
 }
 
 .card-left{
@@ -163,14 +166,14 @@ a {
 
 .card-title{
     padding: 0;
-    color: #ff0000;
+    color: #2704FE;
 }
 a {
     text-decoration: none;
 }
 
 .nav-link {
-    color: #ff0000;
+    color: #2704FE;
     display: none;
 }
 
@@ -190,5 +193,5 @@ a {
     height: 0;
     border-left: 40px solid transparent;
     border-right: 40px solid transparent;
-    border-bottom: 50px solid #ff0000;
+    border-bottom: 50px solid #2704FE;
  }

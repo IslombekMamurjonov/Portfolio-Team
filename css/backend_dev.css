@@ -1,7 +1,14 @@
 *{
     font-family: 'Gugi', cursive;
 }
+a {
+    text-decoration: none;
+}
 /* Team-logo */
+.home {
+    margin-top: 10px;
+    width: 40px;
+}
 .left-content{
     position: sticky;
     top: 0px;

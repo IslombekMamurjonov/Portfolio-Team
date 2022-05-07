@@ -3,6 +3,9 @@
     margin-bottom: 0;
     color: #2704FE;
 }
+a {
+    text-decoration: none;
+}
 
 .team-logo__img {
     border: 3px solid #2704FE;

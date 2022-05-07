@@ -77,18 +77,18 @@ a {
     font-size: 60px;
     margin: 0;
     margin-bottom: 0;
-    color: #ff0000;
+    color: #80FF00;
 }
 
 .team-bease h3 {
     margin: 0;
     font-size: 40px;
     margin-bottom: 0;
-    color: #ff0000;
+    color: #80FF00;
     margin-bottom: 1rem;
 }
 .team-bease .team-logo-img {
-    border: 3px solid #ff0000;
+    border: 3px solid #80FF00;
 }
 
 /* Information */
@@ -97,25 +97,25 @@ a {
     justify-content: center;
 }
 .education {
-    background-color: rgba(163, 55, 55, 0.1);
-    border: 3px solid #ff0000;
+    background-color: rgba(0, 255, 76, 0.1);
+    border: 3px solid #80FF00;
     border-radius: 50px;
 }
 
 .education__edu{
-    color: #ff0000;
+    color: #80FF00;
     margin-top: 3px;
     margin-bottom: 3px;
 }
 
 
 .about-developer {
-    color: #ff0000;
+    color: #80FF00;
 }
 
 .technology {
-    background-color: rgba(163, 55, 55, 0.1);
-    border: 3px solid #ff0000;
+    background-color: rgba(0, 255, 76, 0.1);
+    border: 3px solid #80FF00;
     border-radius: 50px;
 }
 .res{
@@ -124,13 +124,13 @@ a {
 }
 .tools{
     margin-right: 1rem;
-    color: #ff0000;
+    color: #80FF00;
     font-weight: 500;
 }
 
 .procent{
     margin-left: 1rem;
-    color: #ff0000;
+    color: #80FF00;
     font-weight: 500;
 }
 
@@ -140,7 +140,7 @@ a {
     height: 0;
     border-left: 75px solid transparent;
     border-right: 75px solid transparent;
-    border-top: 50px solid #ff0000;
+    border-top: 50px solid #80FF00;
 }
 
 
@@ -150,7 +150,7 @@ a {
 }
 
 .card{
-    border: 3px solid #ff0000 !important;
+    border: 3px solid #80FF00 !important;
 }
 
 .card-left{
@@ -163,14 +163,14 @@ a {
 
 .card-title{
     padding: 0;
-    color: #ff0000;
+    color: #80FF00;
 }
 a {
     text-decoration: none;
 }
 
 .nav-link {
-    color: #ff0000;
+    color: #80FF00;
     display: none;
 }
 
@@ -190,5 +190,5 @@ a {
     height: 0;
     border-left: 40px solid transparent;
     border-right: 40px solid transparent;
-    border-bottom: 50px solid #ff0000;
+    border-bottom: 50px solid #80FF00;
  }
