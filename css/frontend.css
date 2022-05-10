@@ -16,15 +16,15 @@ a {
 }
 .team-name {
     margin-bottom: 0;
-    color: #2704FE;
+    color: #80FF00;
 }
 
 .team-logo__img {
-    border: 3px solid #2704FE;
+    border: 3px solid #80FF00;
 }
 
 .vl {
-    border-right: 3px solid #2704FE;
+    border-right: 3px solid #80FF00;
     
 }
 
@@ -32,7 +32,7 @@ a {
     margin-top: 0;
     font-size: 14px;
     line-height: 14px;
-    color: #2704FE;
+    color: #80FF00;
 }
 
 /* Team-person1 */
@@ -42,7 +42,7 @@ a {
 
 .person-a-one {
     text-decoration: none;
-    color: #3772A3;
+    color: #2704FE;
 }
 
 .person-a-two {
@@ -58,6 +58,27 @@ a {
 .person-a-four {
     text-decoration: none;
     color: #80FF00;
+}
+
+/* HOVER  */
+
+.person-a-one:hover {
+    color: #80FF00;
+}
+
+.person-a-two:hover {
+    color: #80FF00;
+}
+
+.person-a-three:hover {
+    color: #80FF00;
+}
+
+.person-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0 10px 0;
 }
 
 .person-link {

@@ -16,15 +16,15 @@ a {
 }
 .team-name {
     margin-bottom: 0;
-    color: #2704FE;
+    color: #80FF00;
 }
 
 .team-logo__img {
-    border: 3px solid #2704FE;
+    border: 3px solid #80FF00;
 }
 
 .vl {
-    border-right: 3px solid #2704FE;
+    border-right: 3px solid #80FF00;
     
 }
 
@@ -32,7 +32,7 @@ a {
     margin-top: 0;
     font-size: 14px;
     line-height: 14px;
-    color: #2704FE;
+    color: #80FF00;
 }
 
 /* Team-person1 */
@@ -42,7 +42,7 @@ a {
 
 .person-a-one {
     text-decoration: none;
-    color: #3772A3;
+    color: #2704FE;
 }
 
 .person-a-two {
@@ -58,6 +58,27 @@ a {
 .person-a-four {
     text-decoration: none;
     color: #80FF00;
+}
+
+/* HOVER  */
+
+.person-a-one:hover {
+    color: #80FF00;
+}
+
+.person-a-two:hover {
+    color: #80FF00;
+}
+
+.person-a-three:hover {
+    color: #80FF00;
+}
+
+.person-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0 10px 0;
 }
 
 .person-link {
@@ -77,18 +98,18 @@ a {
     font-size: 60px;
     margin: 0;
     margin-bottom: 0;
-    color: #3772A3;
+    color: #2704FE;
 }
 
 .team-bease h3 {
     margin: 0;
     font-size: 40px;
     margin-bottom: 0;
-    color: #3772A3;
+    color: #2704FE;
     margin-bottom: 1rem;
 }
 .team-bease .team-logo-img {
-    border: 3px solid #3772A3;
+    border: 3px solid #2704FE;
 }
 
 /* Information */
@@ -98,24 +119,24 @@ a {
 }
 .education {
     background-color: rgba(55, 114, 163, 0.1);
-    border: 3px solid #3772A3;
+    border: 3px solid #2704FE;
     border-radius: 50px;
 }
 
 .education__edu{
-    color: #3772A3;
+    color: #2704FE;
     margin-top: 3px;
     margin-bottom: 3px;
 }
 
 
 .about-developer {
-    color: #3772A3;
+    color: #2704FE;
 }
 
 .technology {
     background-color: rgba(55, 114, 163, 0.1);
-    border: 3px solid #3772A3;
+    border: 3px solid #2704FE;
     border-radius: 50px;
 }
 .res{
@@ -124,13 +145,13 @@ a {
 }
 .tools{
     margin-right: 1rem;
-    color: #3772A3;
+    color: #2704FE;
     font-weight: 500;
 }
 
 .procent{
     margin-left: 1rem;
-    color: #3772A3;
+    color: #2704FE;
     font-weight: 500;
 }
 
@@ -140,7 +161,7 @@ a {
     height: 0;
     border-left: 75px solid transparent;
     border-right: 75px solid transparent;
-    border-top: 50px solid #3772A3;
+    border-top: 50px solid #2704FE;
 }
 
 
@@ -150,7 +171,7 @@ a {
 }
 
 .card{
-    border: 3px solid #3772A3 !important;
+    border: 3px solid #2704FE !important;
 }
 
 .card-left{
@@ -181,5 +202,5 @@ a {
     height: 0;
     border-left: 40px solid transparent;
     border-right: 40px solid transparent;
-    border-bottom: 50px solid #3772A3;
+    border-bottom: 50px solid #2704FE;
  }

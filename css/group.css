@@ -16,15 +16,15 @@ a {
 }
 .team-name {
     margin-bottom: 0;
-    color: #2704FE;
+    color: #80FF00;
 }
 
 .team-logo__img {
-    border: 3px solid #2704FE;
+    border: 3px solid #80FF00;
 }
 
 .vl {
-    border-right: 3px solid #2704FE;
+    border-right: 3px solid #80FF00;
     
 }
 
@@ -32,7 +32,7 @@ a {
     margin-top: 0;
     font-size: 14px;
     line-height: 14px;
-    color: #2704FE;
+    color: #80FF00;
 }
 
 /* Team-person1 */
@@ -42,7 +42,7 @@ a {
 
 .person-a-one {
     text-decoration: none;
-    color: #3772A3;
+    color: #2704FE;
 }
 
 .person-a-two {
@@ -57,6 +57,20 @@ a {
 
 .person-a-four {
     text-decoration: none;
+    color: #80FF00;
+}
+
+/* HOVER  */
+
+.person-a-one:hover {
+    color: #80FF00;
+}
+
+.person-a-two:hover {
+    color: #80FF00;
+}
+
+.person-a-three:hover {
     color: #80FF00;
 }
 
@@ -77,7 +91,7 @@ a {
     font-size: 60px;
     margin: 0;
     margin-bottom: 0;
-    color: #2704FE;
+    color: #80FF00;
 }
 
 .developer_profession {
@@ -88,11 +102,11 @@ a {
     margin: 0;
     font-size: 40px;
     margin-bottom: 0;
-    color: #2704FE;
+    color: #80FF00;
     margin-bottom: 1rem;
 }
 .team-bease .team-logo-img {
-    border: 3px solid #2704FE;
+    border: 3px solid #80FF00;
 }
 
 h3 {
@@ -102,12 +116,12 @@ h3 {
 /* persons  */
 /* Backend */
 .backend-log {
-    border-radius: 3px solid #3772A3;
+    border-radius: 3px solid #008cff;
 }
 
 .b-item {
     font-size: 40px;
-    color: #3772A3;
+    color: #2704FE;
 }
 
 /* Full-stack */
@@ -143,7 +157,7 @@ h3 {
     height: 0;
     border-left: 75px solid transparent;
     border-right: 75px solid transparent;
-    border-top: 50px solid #2704FE;
+    border-top: 50px solid #80FF00;
 }
 
 
@@ -153,7 +167,8 @@ h3 {
 }
 
 .card{
-    border: 3px solid #2704FE !important;
+    border: 3px solid #80FF00 !important;
+    background-color: #80FF00;
 }
 
 .card-left{
@@ -166,14 +181,13 @@ h3 {
 
 .card-title{
     padding: 0;
-    color: #2704FE;
 }
 a {
     text-decoration: none;
 }
 
 .nav-link {
-    color: #2704FE;
+    color: #80FF00;
     display: none;
 }
 
@@ -193,5 +207,5 @@ a {
     height: 0;
     border-left: 40px solid transparent;
     border-right: 40px solid transparent;
-    border-bottom: 50px solid #2704FE;
+    border-bottom: 50px solid #80FF00;
  }
