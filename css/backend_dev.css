@@ -166,6 +166,11 @@ a {
 
 
 /* My projects */
+
+h4 {
+    color: grey;
+}
+
 .my-projects{
     margin: 2rem 0 2rem 0;
 }
